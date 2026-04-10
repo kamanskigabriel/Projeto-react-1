@@ -5,7 +5,9 @@ function Home () {
     return (
     <>
     <h2>Bem vindo(a) ao sistema do BL</h2>
-    
+            <Link to="/about">
+        <button>About
+            </button></Link>
    </>
 )
 }
